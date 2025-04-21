@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  h1 {
+    color: #006699;
+  }
+  a {
+    display: inline-block;
+    margin-top: 20px;
+    color: #006699;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  ul li {
+    margin-bottom: 10px;
+  }
+  
